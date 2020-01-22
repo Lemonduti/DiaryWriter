@@ -1,0 +1,7 @@
+C:\Users\51245\source\repos\与自己聊天\与自己聊天\obj\Debug\与自己聊天.csprojAssemblyReference.cache
+C:\Users\51245\source\repos\与自己聊天\与自己聊天\obj\Debug\与自己聊天.csproj.CoreCompileInputs.cache
+C:\Users\51245\source\repos\与自己聊天\与自己聊天\bin\Debug\与自己聊天.exe.config
+C:\Users\51245\source\repos\与自己聊天\与自己聊天\bin\Debug\与自己聊天.exe
+C:\Users\51245\source\repos\与自己聊天\与自己聊天\bin\Debug\与自己聊天.pdb
+C:\Users\51245\source\repos\与自己聊天\与自己聊天\obj\Debug\与自己聊天.exe
+C:\Users\51245\source\repos\与自己聊天\与自己聊天\obj\Debug\与自己聊天.pdb
